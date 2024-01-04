@@ -5,6 +5,6 @@
 
 React, TypeScript, Redux Toolkit, CSS / SCSS, Mockapi.
 
-(https://github.com/Nkaltaeva/React_Pizza-Shop/commit/5226e1d24a93d4da5cb5b3b0b897ad98840c1e17)
+![JPEG file](https://github.com/React_Pizza-Shop/blob/main/Pizza.JPG)
 
 
